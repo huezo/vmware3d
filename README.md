@@ -28,3 +28,5 @@ Recuerda esto en VMware Workstation
 
 ## [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
 
+## Descargar 
+[https://github.com/huezo/vmware3d/releases](https://github.com/huezo/vmware3d/releases)
