@@ -18,7 +18,11 @@ sudo chmod +x  vmware3d.sh
 
 ![demo3d][demo]
 
+Recuerda esto en VMware Workstation
 
+[1]:https://raw.githubusercontent.com/huezo/vmware3d/master/1.png
+
+![1][1]
 
 # blog 
 
